@@ -23,3 +23,7 @@ group :production do
   gem 'pg', '0.15.1'
   gem 'rails_12factor', '0.0.2'
 end
+
+gem 'therubyracer'
+gem 'pry-rails'
+gem 'rb-readline'
